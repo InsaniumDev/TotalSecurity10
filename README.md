@@ -7,3 +7,6 @@ TotalSecurity is a fast and high security version of Windows running custom prog
 Totalsecurity has services built into the system to protect you from malware.
 These services actively scans your network and drives.
 Later into the development there will be a panel in which you can open from the tray where you can control your security preferences.
+
+
+Current iso download here [here](http://172.105.82.94/TotalSecurity10.iso).
